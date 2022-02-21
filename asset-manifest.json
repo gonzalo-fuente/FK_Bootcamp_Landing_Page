@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/FK_Bootcamp_Landing_Page/static/css/main.57260f0b.css",
+    "main.js": "/FK_Bootcamp_Landing_Page/static/js/main.e276ace2.js",
+    "static/media/map.jpg": "/FK_Bootcamp_Landing_Page/static/media/map.dbfeaed441fc252db5c1.jpg",
+    "static/media/bootstrap-icons.woff?": "/FK_Bootcamp_Landing_Page/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/FK_Bootcamp_Landing_Page/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "static/media/fundamentals.svg": "/FK_Bootcamp_Landing_Page/static/media/fundamentals.bca9b3dc9e000805551f6f7f2cf64918.svg",
+    "static/media/react.svg": "/FK_Bootcamp_Landing_Page/static/media/react.0960bd7ea577f3d0f49d260a7e410905.svg",
+    "static/media/showcase.svg": "/FK_Bootcamp_Landing_Page/static/media/showcase.e48f3c0e72d7c6d73d8810d7bd2d5657.svg",
+    "index.html": "/FK_Bootcamp_Landing_Page/index.html",
+    "main.57260f0b.css.map": "/FK_Bootcamp_Landing_Page/static/css/main.57260f0b.css.map",
+    "main.e276ace2.js.map": "/FK_Bootcamp_Landing_Page/static/js/main.e276ace2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57260f0b.css",
+    "static/js/main.e276ace2.js"
+  ]
+}
